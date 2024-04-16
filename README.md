@@ -1,2 +1,1 @@
-# Startup_Salmon
-Machine Learning program that predicts profitability of startup companies
+"This is a machine learning file" 
